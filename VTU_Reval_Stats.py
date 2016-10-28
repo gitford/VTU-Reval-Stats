@@ -135,4 +135,7 @@ for j in range(0,89):
     plt.title(pic_header)
     pp.savefig()
     
+    plt.figure()
+    
+    
 pp.close()
